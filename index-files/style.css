@@ -16,7 +16,7 @@ body {
  
 }
 body{
-     background-color:#ffffff;
+     background-color:#000000;
 }
 h1 {
   font-size: 34px;
@@ -45,7 +45,7 @@ p {
   margin: 0;
 }
 .bg-theme-1 {
-  background-color: #0353a8;
+  background-color: #000000;
 }
 .bg-theme-2 {
   background-color: #333333;
@@ -60,7 +60,7 @@ p {
   background-color: #000000;
 }
 .text-theme-1 {
-  color: #0353a8;
+  color: #000000;
 }
 .text-theme-2 {
   color: #333333;
